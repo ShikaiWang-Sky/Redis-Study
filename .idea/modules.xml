@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Redis-01-Jedis/Redis-01-Jedis.iml" filepath="$PROJECT_DIR$/../Redis-01-Jedis/Redis-01-Jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-02-srpingboot/redis-02-srpingboot.iml" filepath="$PROJECT_DIR$/redis-02-srpingboot/redis-02-srpingboot.iml" />
+    </modules>
+  </component>
+</project>
